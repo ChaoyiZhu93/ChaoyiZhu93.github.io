@@ -1,16 +1,11 @@
+---
+layout: default
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 {% include base_path %}
-
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
-
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
 
 <p>Publications (<b>25</b>) last scraped for <a href="https://scholar.google.co.uk/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=citations">Chaoyi Zhu</a> on <b>2020-09-11</b> 
 using <a href="https://github.com/TWRogers/google-scholar-export">google-scholar-export</a>.</p>
