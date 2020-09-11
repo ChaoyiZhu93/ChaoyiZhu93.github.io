@@ -58,12 +58,6 @@ Awards
 * Acta Student Award 2018 Finalist
 * Charles Salter Prize 
 * DAAD RISE scholarship
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
