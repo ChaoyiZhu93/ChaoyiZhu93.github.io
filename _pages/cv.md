@@ -11,30 +11,53 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Materials Science and Engineering, Imperial College London, 2015
+* Ph.D in Materials Science and Engineering, UC San Diego, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2019-now: Research Associate
+  * Carnegie Mellon University
+  * Supervisor: Professor [Marc De Graef](https://www.cmu.edu/engineering/materials/people/faculty/bios/de_graef.html/)
+  * Funding source: ONR (VBFF)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct. 2015-June 2019: Graduate Student Researcher
+  * UC San Diego
+  * Supervisor: Professor [Kenneth Vecchio](https://sites.google.com/eng.ucsd.edu/kennethvecchioresearchgroup/)
+  * Funding source: Fellowship/DOE
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Materials Charaterization:
+  * OLM/SEM/TEM/FIB
+  * EBSD/EDS/XRD
+  * IR/UV-vis/
+* Mechannical Testing:
+  * Vickers hardness/ Nanoindentation
+  * Tensile test/In-situ tensile test
+  * Fracture toughness test
+  * Digital image correlation
+* Programming:
+  * Matlab
+  * Python
+  * Fortran 
+  * Git, CMake, shh, VS code, Anaconda, LaTex
+  * OS: MacOS/WIN10/Linux (WSL)
+* Scientific softwares:
+  * Abaqus
+  * LAMMPS
+  * Mathematica
+* Other softwares:
+  * MS Office (Word, Powerpoint, Excel)
+  * Adobe (PS, Lightroom, Illustrator)
+
+Awards
+======
+* Dissertation Year Fellowship
+* EBSD 2018 Travel Grant / GSR Travel Grant
+* Acta Student Award 2018 Finalist
+* Charles Salter Prize 
+* DAAD RISE scholarship
 
 Publications
 ======
@@ -53,7 +76,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
