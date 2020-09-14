@@ -11,20 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Materials Science and Engineering, Imperial College London, 2015
 * Ph.D in Materials Science and Engineering, UC San Diego, 2019
+* B.Eng. in Materials Science and Engineering, Imperial College London, 2015
 
 Work experience
 ======
 * August 2019-now: Research Associate
   * Carnegie Mellon University
-  * Supervisor: Professor [Marc De Graef](https://www.cmu.edu/engineering/materials/people/faculty/bios/de_graef.html/)
+  * Supervisor: Dr. [Marc De Graef](https://www.cmu.edu/engineering/materials/people/faculty/bios/de_graef.html/)
   * Funding source: ONR (VBFF)
 
 * Oct. 2015-June 2019: Graduate Student Researcher
   * UC San Diego
-  * Supervisor: Professor [Kenneth Vecchio](https://sites.google.com/eng.ucsd.edu/kennethvecchioresearchgroup/)
-  * Funding source: Fellowship/DOE
+  * Supervisor: Dr. [Kenneth Vecchio](https://sites.google.com/eng.ucsd.edu/kennethvecchioresearchgroup/)
+  * Funding sources: UCSD Fellowship/GSR/TA/DOE
+
+* Oct 2014-July 2015: Undergraduate Researcher
+  * Imperial College London   
+  * Supervisor: Dr. [Ben Britton](https://www.expmicromech.com/)
+
+* July 1st 2014-Sept 22nd 2014: Research Internship
+  * Max-Planck-Institute for Iron Research GmbH 
+  * Supervisor: Dr. [Cem Tasan](https://tasan.mit.edu/research/) (now at MIT)
+  * Funding source: DAAD RISE scholarship                                                                                                                  
   
 Skills
 ======
