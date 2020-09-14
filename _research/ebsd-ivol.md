@@ -1,11 +1,11 @@
 ---
 title: "EBSD pattern simulations for an interaction volume containing lattice defects"
-excerpt: "The dynmamical electron scattering model taking into account of interaction volume effect and depth-dependent local distortion of crystal lattice <br/><img src='/images/ebsd-ivol.png'>"
+excerpt: "New dynmamical electron scattering model that takes into account of interaction volume effect and depth-dependent local distortion of crystal lattice <br/><img src='/images/ebsd-ivol.png'>"
 permalink: /research/ebsd-ivol
 date: 2020-11-01
 collection: research
 ---
-<img src='/images/ebsd-ivol.png' alt="EBSD interaction volume effect" width="500" height="243"> 
+<img src='/images/ebsd-ivol.png' class="center"> 
 
 <p style="text-align: justify"> Despite the existence of numerous experimental studies on lattice defects with EBSD, there exists a lack of systematic understanding of the effects of defects on diffraction patterns. Early studies have shown that backscattered electrons are randomly generated inside the interaction volume, as prescribed by the Rutherford differential scattering cross-section. To accurately account for the effect of spatial distribution and density of defects on the diffraction pattern, interaction volume effect and depth-dependent local distortion of the crystal must be simultaneously considered. </p>
 
