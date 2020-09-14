@@ -1,6 +1,6 @@
 ---
 title: "EBSD pattern simulations for an interaction volume containing lattice defects"
-excerpt: "The dynmamical electron scattering model taking into account of interaction volume effect and depth-dependent local distortion of crystal lattice <br/><img src='/images/ebsd-ivol.png' alt="EBSD interaction volume effect" width="500" height="243">"
+excerpt: "The dynmamical electron scattering model taking into account of interaction volume effect and depth-dependent local distortion of crystal lattice <br/><img src='/images/ebsd-ivol.png'>"
 permalink: /research/ebsd-ivol
 date: 2020-11-01
 collection: research

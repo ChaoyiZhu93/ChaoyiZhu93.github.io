@@ -1,6 +1,6 @@
 ---
 title: "Aged metastable high-entropy alloys with heterogeneous lamella structure for superior strength-ductility synergy"
-excerpt: "The dynmamical electron scattering model taking into account of interaction volume effect and depth-dependent local distortion of crystal lattice <br/><img src='/images/aged-ncatb.jpg' alt="NCATB deformation mechanism" width="500" height="375">"
+excerpt: "The dynmamical electron scattering model taking into account of interaction volume effect and depth-dependent local distortion of crystal lattice <br/><img src='/images/aged-ncatb.jpg'>"
 permalink: /research/aged-NCATB
 date: 2020-10-01
 collection: research
