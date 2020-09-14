@@ -3,6 +3,7 @@ title: "EBSD pattern simulations for an interaction volume containing lattice de
 excerpt: "The dynmamical electron scattering model taking into account of interaction volume effect and depth-dependent local distortion of crystal lattice <br/><img src='/images/ebsd-ivol.png'>"
 permalink: /research/ebsd-ivol
 date: 2020-11-01
+collection: research
 ---
 .. image:: /images/ebsd-ivol.png
    :width: 500
