@@ -8,7 +8,7 @@ collection: research
 
 Design of non-equiatomic high entropy alloys with heterogeneous lamella structure
 ======
-<img src='/images/hl nonequiatomic HEA.png' class="center"> 
+<img src='/images/hl nonequiatomic HEA.jpg' class="center"> 
 
 <div style="text-align: justify"> A non-equiatomic FeNiCoAlCrB (NCACB) high entropy alloy (HEA) with a heterogeneous lamella (HL) structure is fabricated through conventional thermomechanical processing. In the HL microstructure, fine-grain regions result from inhibited grain growth due to Zener pinning of boundaries by NiAl (B2) precipitates, while coarse-grained regions originate from grain growth within large deformation bands in the absence of precipitates. A back-stress strengthening mechanism, unique to deformation of heterogeneous microstructures, is verified through mechanical behavior and electron backscatter diffraction enabled geometrically necessary dislocation density analysis. This mechanism gives rise to the combination of both high strength and high ductility in HL-NCACB-HEA. </div>
 
