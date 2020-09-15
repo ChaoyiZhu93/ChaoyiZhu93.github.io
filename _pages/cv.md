@@ -47,10 +47,8 @@ Skills
   * Fracture toughness test
   * Digital image correlation
 * Programming:
-  * Matlab
-  * Python
-  * Fortran 
-  * Git, CMake, shh, VS code, Anaconda, LaTex
+  * Matlab/Python/Fortran
+  * Git, CMake, shh, VS code, Anaconda, LaTex, html
   * OS: MacOS/WIN10/Linux (WSL)
 * Scientific softwares:
   * Abaqus
@@ -67,6 +65,8 @@ Awards
 * Acta Student Award 2018 Finalist
 * Charles Salter Prize 
 * DAAD RISE scholarship
+* Engineering Dean’s List (2012-2015)
+* Winner of Imperial College Festive Photo Competition
   
 Talks
 ======
