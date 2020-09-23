@@ -1,6 +1,6 @@
 ---
-title: "Microstructure Engineering for Metallic Alloys"
-excerpt: "As the demand for structural alloys is expected to grow around 200% in many industrial sectors until 2050, reduction in greenhouse gas emission associated with metal extraction and manufacturing becomes critically important. For example, method such as scrap metal recycling in the secondary industry would make direct impact to the sustainability of structural metals but the challenge nowadays is to sort metals with increasing complex alloying elements. Fortunately, properties of metals, particular mechanical properties, can be adjusted through microstructure tuning without changing the alloy composition <br/><img src='/images/aged-ncatb.jpg'>"
+title: "Sustainability of Metallic Alloys Through Microstructure Engineering"
+excerpt: "As the demand for structural alloys is expected to grow around 200% in many industrial sectors until 2050, reduction in greenhouse gas emission associated with metal extraction and manufacturing becomes critically important. For example, method such as scrap metal recycling in the secondary industry would make direct impact to the sustainability of structural metals but the challenge nowadays is to sort metals with increasing complex alloying elements. Fortunately, properties of metals, particular mechanical properties, can be adjusted through microstructure tuning without changing the alloying composition <br/><img src='/images/aged-ncatb.png'>"
 permalink: /research/microstructure
 date: 2018-10-01
 collection: research
