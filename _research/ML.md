@@ -5,6 +5,10 @@ permalink: /research/ml-characterization
 date: 2019-11-01
 collection: research
 ---
+<figure>
+    <img src='/images/ML-importance.png' class="center"> 
+    <figcaption> The heat map for diffraction pattern classification.</figcaption>
+</figure>
 
 <div style="text-align: justify"> Following some of the most significant discoveries in physics made in the 20th century, modern breakthroughs in physical science have been closely correlated with the exponential growth in the computational power and advanced analytical algorithms. To tackle some of the urgent problems that our humanity faces e.g. global warming, scientists more actively seek for material solutions to lead a more sustainable future, for example, structural alloys that last longer in service and battery materials with higher energy storage capacity. Part of the so-called 'closed-loop' challenge in designing new materials is to integrate high-throughput characterization into the materials' design process. With ever more sophisticated machine learning algorithms, this 'closed-loop' approach will create an accelerated environment for computers to quickly filter through enormously large data of potential candidates and ultimately guide the design of new materials to achieve desirable properties. </div>
 <br />
@@ -12,11 +16,9 @@ collection: research
 <div style="text-align: justify"> For many solid state materials, phase identification and mapping provides necessary structure-chemical information that will affect the thermal, mechanical, electrical properties. Typically, this would involve first identifying the phases present in the XRD and then spatially map these phases in EBSD. In other words, the identity of phases need be known prior to EBSD scan. Alternatively, one can also use the state-of-art combined EBSD/EDS technique to filter through the database based on chemical composition and then use Hough-indexing to determine the best-fit structure. However, this approach is not particularly accurate for diffraction patterns with pseudosymmetry and it requires use-defined reference points for mapping. </div>
 <br />
 
-<div style="text-align: justify"> A more direct approach to this phase classification problem is to solely reply on diffraction patterns since the features in diffraction patterns contains both the chemical and structure information i.e. a classical image classification problem for convolutional neural network (CNN). As the CNN continuously learn from a large collection of experimental patterns manually collected from different phases, it adjusts the millions of weights and biases in the network that would allow correct classification of different phases. Unlike feature engineering, the power of CNN lies in its ability in indiscriminately utilize all the available features to make decisions. Although the initial training process would require a large collection of data and computation power, the speed of classification using a deployed model is extremely fast. Future endeavor in this research area will be focusing on using dynamically simulated patterns to complete the database and expand its classification capability. </div>
+<div style="text-align: justify"> A more direct approach to this phase classification problem is to solely reply on diffraction patterns since the features in diffraction patterns contains both the chemical and structure information i.e. a classic image classification problem for convolutional neural network (CNN). As the CNN continuously learn from a large collection of experimental patterns manually collected from different phases, it adjusts the millions of weights and biases in the network that would allow correct classification of different phases. Unlike feature engineering, the power of CNN lies in its ability in indiscriminately utilize all the available features to make decisions. Although the initial training process would require a large collection of data and computation power, the speed of classification using a deployed model is extremely fast. Future endeavor in this research area will be focusing on using dynamically simulated patterns to complete the database and expand its classification capability. </div>
 <br />
 
-<img src='/images/ML-importance.png' class="center"> 
-<br />
 
 Crystal symmetry determination in electron diffraction using machine learning
 ====
