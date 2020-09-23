@@ -11,7 +11,8 @@ redirect_from:
 I am a postdoctoral scholar at Carnegie Mellon University in the Department of Materials Science and Engineering, advised by Dr. [Marc De Graef](https://www.cmu.edu/engineering/materials/people/faculty/bios/de_graef.html/). 
   * As a metallurgist by trained, I am interested in substainable design for metallic alloys through microstructure tuning. 
   * In my spare time ~~most of my time~~, I enjoy looking at pretty Kikuchi patterns to understand microscture, texture, and deformation mechanisms of crystalline materials. 
-  * ~~To keep up with the vibe in the research community,~~ I haved developed alternative characterization techniques based on computer vision algorithm and machine learning approach (CNN). 
+  * ~~To keep up with the vibe in the research community,~~ I haved developed alternative micro/macro strain mapping techniques based on computer vision algorithm and...
+  * phase mapping technique using convolutional neutral network. 
   * Recently, I started to explore the the optimization landscape for full deforamtion tensor inference from Kikuchi patterns and...
   * the possibility of characterizing single dislocations using low-voltage EBSD ~~in theory~~.
  
