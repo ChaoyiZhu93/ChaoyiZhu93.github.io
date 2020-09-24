@@ -22,8 +22,12 @@ collection: research
 
 Crystal symmetry determination in electron diffraction using machine learning
 ====
-<img src='/images/cnn-ebsd.png' class="center"> 
-<br />
+
+<figure>
+    <img src='/images/cnn-ebsd.png' class="center"> 
+    <figcaption> Schematic of how the CNN works to classify Bravais lattices.</figcaption>
+</figure>
+
 
 <div style="text-align: justify"> Electron backscatter diffraction (EBSD) is one of the primary tools for crystal structure determination.
 However, this method requires human input to select potential phases for Hough-based or dictionary pattern matching and is not well suited for phase identification. Automated phase identification is the first step in making EBSD into a high-throughput technique. We used a machine learning–based approach and developed a general methodology for rapid and autonomous identification of the crystal symmetry from EBSD patterns. We evaluated our algorithm with diffraction patterns from materials outside the training set. The neural network assigned importance to the same symmetry features that a crystallographer would use for structure identification</div>
@@ -37,10 +41,12 @@ Reference: Kaufmann, K., ***Zhu, C.***, Rosengarten, A.S., Maryanovsky, D., Harr
 
 Phase Mapping in EBSD Using Convolutional Neural Networks
 ====
-<img src='/images/ML-phasemaps.png' class="center"> 
-<br />
-<img src='/images/ML-phasemaps-2.png' class="center"> 
-<br />
+
+<figure>
+    <img src='/images/ML-phasemaps.png' class="center"> 
+    <figcaption> Phase mapping example using CNN.</figcaption>
+</figure>
+
 <div style="text-align: justify"> The emergence of commercial electron backscatter diffraction (EBSD) equipment ushered in an era of information rich maps produced by determining the orientation of user-selected crystal structures. Since then, a technological revolution has occurred in the quality, rate detection, and analysis of these diffractions patterns. The next revolution in EBSD is the ability to directly utilize the information rich diffraction patterns in a high-throughput manner. Aided by machine learning techniques, this new methodology is, as demonstrated herein, capable of accurately separating phases in a material by crystal symmetry, chemistry, and even lattice parameters with fewer human decisions. This work is the first demonstration of such capabilities and addresses many of the major challenges faced in modern EBSD. Diffraction patterns are collected from a variety of samples, and a convolutional neural network, a type of machine learning algorithm, is trained to autonomously recognize the subtle differences in the diffraction patterns and output phase maps of the material. This study offers a path to machine learning coupled phase mapping as databases of EBSD patterns encompass an increasing number of the possible space groups, chemistry changes, and lattice parameter variations </div>
 <br />
 
@@ -49,7 +55,10 @@ Reference: Kaufmann, K., ***Zhu, C.***, Rosengarten, A.S., Maryanovsky, D., Wang
 Deep Neural Network Enabled Space Group Identification in EBSD
 =====
 
-<img src='/images/space group-ml.png' class="center"> 
+<figure>
+    <img src='/images/space group-ml.png' class="center"> 
+    <figcaption> Comparison of diffraction patterns from B2 FeAl (space group 221) and BCC Fe (space group 229). <figcaption>
+</figure>
 <br />
 
 <div style="text-align: justify"> Electron backscatter diffraction (EBSD) is one of the primary tools in materials development and analysis. The technique can perform simultaneous analyses at multiple length scales, providing local sub-micron information mapped globally to centimeter scale. Recently, a series of technological revolutions simultaneously increased diffraction pattern quality and collection rate. After collection, current EBSD pattern indexing techniques (whether Hough-based or dictionary pattern matching based) are capable of reliably differentiating between a “user selected” set of phases, if those phases contain sufficiently different crystal structures. EBSD is currently less well suited for the problem of phase identification where the phases in the sample are unknown. A pattern analysis technique capable of phase identification, utilizing the information-rich diffraction patterns potentially coupled with other data, such as EDS-derived chemistry, would enable EBSD to become a high-throughput technique replacing many slower (X-ray diffraction) or more expensive (neutron diffraction) methods. We utilize a machine learning technique to develop a general methodology for the space group classification of diffraction patterns; this is demonstrated within the (4/m, 3 bar, 2/m) point group. We evaluate the machine learning algorithm's performance in real-world situations using materials outside the training set, simultaneously elucidating the role of atomic scattering factors, orientation, and pattern quality on classification accuracy. </div>

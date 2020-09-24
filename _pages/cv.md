@@ -37,11 +37,11 @@ Work experience
   
 Skills
 ======
-* Materials Charaterization:
+* Materials Characterization:
   * OLM/SEM/TEM/FIB
   * EBSD/EDS/XRD
   * IR/UV-vis/
-* Mechannical Testing:
+* Mechanical Testing:
   * Vickers hardness/ Nanoindentation
   * Tensile test/In-situ tensile test
   * Fracture toughness test
@@ -50,12 +50,12 @@ Skills
   * Matlab/Python/Fortran
   * Git, CMake, shh, VS code, Anaconda, LaTex, html
   * OS: MacOS/WIN10/Linux (WSL)
-* Scientific softwares:
+* Scientific software:
   * Abaqus
   * LAMMPS
   * Mathematica
-* Other softwares:
-  * MS Office (Word, Powerpoint, Excel)
+* Other software:
+  * MS Office (Word, ppt, Excel)
   * Adobe (PS, Lightroom, Illustrator)
 
 Awards

@@ -1,6 +1,6 @@
 ---
-title: "Sustainability of Metallic Alloys Through Microstructure Engineering"
-excerpt: "As the demand for structural alloys is expected to grow around 200% in many industrial sectors until 2050, reduction in greenhouse gas emission associated with metal extraction and manufacturing becomes critically important. For example, method such as scrap metal recycling in the secondary industry would make direct impact to the sustainability of structural metals but the challenge nowadays is to sort metals with increasing complex alloying elements. Fortunately, properties of metals, particular mechanical properties, can be adjusted through microstructure tuning without changing the alloying composition <br/><img src='/images/aged-ncatb.png'>"
+title: "Sustainable Design of Metallic Alloys Through Microstructure Engineering"
+excerpt: "As the demand for structural alloys is expected to grow around 200% in many industrial sectors until 2050, reduction in greenhouse gas emission associated with metal extraction and manufacturing becomes critically important. For example, method such as scrap metal recycling in the secondary industry would make direct impact to the sustainability of structural metals but the challenge nowadays is to sort metals with increasing complex alloying elements. Fortunately, properties of metals, particular mechanical properties, can be adjusted through microstructure tuning without changing the alloying composition <br/><img src='/images/HL-front.png'>"
 permalink: /research/microstructure
 date: 2018-10-01
 collection: research
@@ -13,7 +13,10 @@ collection: research
 
 Design of non-equiatomic high entropy alloys with heterogeneous lamella structure
 ======
-<img src='/images/hl nonequiatomic HEA.jpg' class="center"> 
+<figure>
+    <img src='/images/hl nonequiatomic HEA.jpg' class="center"> 
+    <figcaption> Heterogeneous lamella structure of high-entropy alloy mapped with EBSD and back-stress strengthening.</figcaption>
+</figure>
 
 <div style="text-align: justify"> A non-equiatomic FeNiCoAlCrB (NCACB) high entropy alloy (HEA) with a heterogeneous lamella (HL) structure is fabricated through conventional thermomechanical processing. In the HL microstructure, fine-grain regions result from inhibited grain growth due to Zener pinning of boundaries by NiAl (B2) precipitates, while coarse-grained regions originate from grain growth within large deformation bands in the absence of precipitates. A back-stress strengthening mechanism, unique to deformation of heterogeneous microstructures, is verified through mechanical behavior and electron backscatter diffraction enabled geometrically necessary dislocation density analysis. This mechanism gives rise to the combination of both high strength and high ductility in HL-NCACB-HEA. </div>
 <br />
@@ -21,12 +24,14 @@ Design of non-equiatomic high entropy alloys with heterogeneous lamella structur
 Reference: Zhang, C., ***Zhu, C.***, Harrington, T. and Vecchio, K., 2018. Design of non-equiatomic high entropy alloys with heterogeneous lamella structure towards strength-ductility synergy. Scripta Materialia, 154, pp.78-82.
 
 <br />
-<br />
-<br />
 
-Extraordinary strength-ductility synergy in a heterogeneous-structured β -Ti alloy through microstructural optimization
+Extraordinary strength-ductility synergy in a heterogeneous-structured β-Ti alloy through microstructural optimization
 ======
-<img src='/images/hl gum metal.jpeg' class="center"> 
+
+<figure>
+    <img src='/images/hl gum metal.jpeg' class="center"> 
+    <figcaption> Heterogeneous lamella structure of β-Ti alloy.</figcaption>
+</figure>
 
 <div style="text-align: justify"> This paper reports on a heterogeneous-structured β-Ti alloy with an exceptional combination of high strength and ductility, resulting from optimized hierarchical features in a lamellar microstructure. The microstructure is achieved by controlling a fraction of coarse/fine domains, spatial grain-size distribution, and different types of grain boundaries. The large degree of microstructural heterogeneity leads to obvious mechanical incompatibility and strain partitioning during plastic deformation. In addition, experimental results demonstrate that the unique heterogeneous structure induces high hetero-deformation induced hardening and promotes dislocation accumulation, thereby achieving a high yield strength ∼970 MPa and uniform tensile elongation of ∼16%. </div>
 <br />
@@ -38,8 +43,11 @@ Reference: Shin, S., ***Zhu, C.***, Zhang, C. and Vecchio, K.S., 2019. Extraordi
 
 Cold-workable refractory complex concentrated alloys with tunable microstructure and good room-temperature tensile behavior
 ======
-<img src='/images/RHEA-ebsd.jpg' class="center"> 
 
+<figure>
+    <img src='/images/RHEA-ebsd.jpg' class="center"> 
+    <figcaption> Heterogeneous lamella structure of β-Ti alloy.</figcaption>
+</figure>
 
 <div style="text-align: justify"> A novel non-equiatomic NbTaTi-based refractory complex concentrated alloy (RCCA) capable of being cold-rolled up to a reduction in thickness of over 90% directly from the as-cast state is studied. Instead of conventional heat-treatment at temperatures greater than 0.8Tm for long durations, the excellent cold-workability in this RCCA allows for tunable microstructural features, including fine-grained, coarse-grained, and heterogeneous lamella (HL) structures, through proper heat-treatment at relatively lower temperatures for shorter duration. By tailoring microstructures, balanced tensile properties are achieved in this RCCA, through back-stress strengthening of HL structures. This study demonstrates an energy-saving and efficient way to fabricate high-performance RCCAs. </div>
 <br />
@@ -51,7 +59,10 @@ Reference: Zhang, C., MacDonald, B.E., Guo, F., Wang, H., ***Zhu, C.***, Liu, X.
 
 Aged Metastable High-entropy Alloys with Heterogeneous Lamella Structure
 ======
-<img src='/images/aged-ncatb.jpg' class="center"> 
+<figure>
+    <img src='/images/aged-ncatb.png' class="center"> 
+    <figcaption> Multiple hardening mechanism in HL structured aged metastable high-entropy alloy.</figcaption>
+</figure>
 
 <div style="text-align: justify">  High-entropy alloys containing multi-principal-element systems significantly expand the potential alloy design space, and offer the possibility of overcoming the strength-ductility trade-off in metallurgical research. However, the gain in ultra-high strength through traditional grain refinement and precipitation-strengthening mechanisms inevitably leads to a drastic loss of ductility. Here, we report on the design and fabrication of heterogeneous-lamella structured, aged bulk high-entropy alloy, which attains gigapascal tensile strength while retaining excellent ductility (UTS ~1.4 GPa, elongation ~30%; UTS ~1.7 GPa, elongation ~10%). Our work shows that the improved strength-ductility synergy arises due to various complementary strengthening mechanisms, including solid-solution, interfaces, precipitation and martensitic transformation, which influence the hardening and deformation processes at different strain levels. In particular, the hetero-deformation that is associated with the formation of microbands as well as the stress-induced martensite promotes additional hardening and hence high ductility. The strategy described here, that is leveraging the concept of heterogeneous microstructure design, provides a practical and novel method for fabricating high-performance structural materials. </div>
 <br />

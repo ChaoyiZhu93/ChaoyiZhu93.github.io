@@ -17,7 +17,10 @@ collection: research
 
 Dislocation-type evolution in quasi-statically compressed polycrystalline nickel
 =====
-<img src='/images/Ni-compression.jpg' class="center"> 
+<figure>
+    <img src='/images/Ni-compression.jpg' class="center"> 
+    <figcaption> Heterogeneous deformation in polycrystalline nickel and experimental validation of Ashby's strengthening model.</figcaption>
+</figure>
 
 <div style="text-align: justify"> The nature of dislocation generation as a function of applied plastic strain in quasi-statically compressed polycrystalline pure nickel has been studied experimentally at ambient temperature. First, to ensure representative datasets of the geometrically-necessary dislocation densities (ρGND) associated with non-uniform plastic deformation, measurements over large (several millimeter square) areas were made using Hough-based EBSD methods. In addition, the total dislocation density (ρT) responsible for the overall work hardening is estimated from the measured flow stress based on Taylor's hardening model. Next, the statistically stored dislocation (SSD) density (ρSSD) is calculated by subtracting the GND density from the total dislocation density. The results demonstrate that in quasi-statically deformed nickel: i) the measured GND density varies linearly as a function of plastic strain in the range between 0.05 and 0.46; although Ashby's model predicts linearity for GND density evolution over entire range of strains, this study does not cover strains below 0.05; ii) the SSD density increases at a rate much faster than GND density; and iii) the SSD density exceeds the GND density at above 0.09 plastic strain. Both i) and ii) are in agreement with Ashby's prediction, while the magnitudes of GND density (iii) differ from Ashby's model prediction, particularly at large applied strains. Overall, this study enables the interplay of GNDs and SSDs in the hardening of nickel to be gleaned in a quantitative sense. This study illustrates that GNDs are the more important for the strength of polycrystalline metals in the early stages of work hardening, whereas SSDs contribute more to the strength at larger strains. Over the range of strain in this study, work hardening is predominantly through rapid multiplication of SSDs; whereas the GND density is initially higher than SSD density at 0.05 probably due to non-linear evolution of GNDs at low strains (less than 0.05), which will be the subject of future investigation. </div>
 <br />
@@ -46,4 +49,7 @@ Determination of geometrically necessary dislocations in large shear strain loca
 
 Reference: ***Zhu, C.***, Harrington, T., Livescu, V., Gray III, G.T. and Vecchio, K.S., 2016. Determination of geometrically necessary dislocations in large shear strain localization in aluminum. Acta Materialia, 118, pp.383-394.
 
-<img src='/images/microstructure-anisotropy.jpg' class="center"> 
+<figure>
+    <img src='/images/microstructure-anisotropy.jpg' class="center"> 
+    <figcaption> Microstructural and crystallographic anisotropy effect on shear localization properties.</figcaption>
+</figure>

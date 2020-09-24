@@ -21,13 +21,17 @@ collection: research
 <div style="text-align: justify"> We have demonstrated in our studies that computer vision could also be used to extract strain information with high accuracy, opening new collaborative opportunities between the two communities. </div>
 <br />
 
-<img src='/images/DIC Image Registration figures.png' class="center"> 
-<br />
+<figure>
+    <img src='/images/DIC Image Registration figures.png' class="center"> 
+    <figcaption> Strain maps comparison between DIC method and computer vision approach.</figcaption>
+</figure>
 
 A computer vision approach to study surface deformation of materials
 ====
-<img src='/images/computer-vision-diagram.png' class="center"> 
-<br />
+<figure>
+    <img src='/images/computer-vision-diagram.png' class="center"> 
+    <figcaption> Flowchart of the strain mapping algorithm.</figcaption>
+</figure>
 
 <div style="text-align: justify"> Characterization of the deformation of materials across different length scales has continuously attracted enormous attention from the mechanics and materials communities. In this study, the possibility of utilizing a computer vision algorithm to extract deformation information from materials has been explored, which greatly expands the use of computer vision approaches to studying the mechanics of materials and potentially opens new dialogues between the two communities. The computer vision algorithm is first developed and tested on computationally deformed images (% error < 0.035%, L2-norm < 2.5), before evaluating experimentally collected images on speckle painted samples before and after deformation. Moreover, a virtual experiment shows the feasibility of mapping the surface strain of a sample based on its natural pattern with significantly improved accuracy compared to the digital image correlation result obtained from the open-source software Ncorr, which provides new opportunities in experimentation and computer algorithms for studying the deformation mechanics of materials. Validation experiments include evaluating the performance of strain mapping using the computer vision approach in the uniaxial tensile test and three-point bending test, compared with extensometer reading and digital image correlation, respectively. </div>
 <br />
@@ -40,8 +44,11 @@ Reference: ***Zhu, C.***, Wang, H., Kaufmann, K. and Vecchio, K., 2019. Computer
 
 Novel remapping approach for HR-EBSD based on demons registration
 ====
-<img src='/images/HR-EBSD registration.png' class="center"> 
-<br />
+<figure>
+    <img src='/images/HR-EBSD registration.png' class="center"> 
+    <figcaption> Image registration based pattern remapping</figcaption>
+</figure>
+
 <div style="text-align: justify"> In this study, the possibility of utilizing a computer vision algorithm, i.e., demons registration, to accurately remap electron backscatter diffraction patterns for high resolution electron backscatter diffraction (HR-EBSD) applications is presented. First, the angular resolution of demons registration is demonstrated to be lower than the conventional cross-correlation based method, particularly at misorientation angles > 0.157 rad. In addition, GPU acceleration has been applied to significantly boost the speed of iterative registration between a pair of patterns with 0.175 rad misorientation to under 1 s. Second, demons registration is implemented as a first-pass remapping, followed by a second pass cross-correlation method, which results in angular resolution of ~0.5×10−4 rad, a phantom stress value of ~35 MPa and phantom strain of ~2×10−4, on dynamically simulated patterns, without the need of implementing robust fitting or iterative remapping. Lastly, the new remapping method is applied to a large experimental dataset collected from an as-built additively-manufactured Inconel 625 cube, which shows significant residual stresses built-up near the large columnar grain region and regularly arranged GND structures. </div>
 <br />
 
