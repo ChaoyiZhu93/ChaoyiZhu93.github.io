@@ -1,6 +1,6 @@
 ---
 title: "Sustainable Design of Metallic Alloys Through Microstructure Engineering"
-excerpt: "As the demand for structural alloys is expected to grow around 200% in many industrial sectors until 2050, reduction in greenhouse gas emission associated with metal extraction and manufacturing becomes critically important. For example, method such as scrap metal recycling in the secondary industry would make direct impact to the sustainability of structural metals but the challenge nowadays is to sort metals with increasing complex alloying elements. Fortunately, properties of metals, particular mechanical properties, can be adjusted through microstructure tuning without changing the alloying composition <br/><img src='/images/HL-front.png'>"
+excerpt: "As the demand for structural alloys is expected to grow around 200% in many industrial sectors until 2050, reduction in greenhouse gas emission associated with metal extraction and manufacturing becomes critically important. For example, method such as scrap metal recycling in the secondary industry would make direct impact to the sustainability of structural metals but the challenge nowadays is to sort metals with increasingly complex alloying elements. Fortunately, properties of metals, particular mechanical properties, can be adjusted through microstructure tuning without changing the alloying composition <br/><img src='/images/HL-front.png'>"
 permalink: /research/microstructure
 date: 2018-10-01
 collection: research
@@ -10,6 +10,9 @@ collection: research
 <br />
 
 <div style="text-align: justify"> Nevertheless, metals can rarely be strong and ductile as the same time. This well-known challenge, called the strength-ductility trade-off, would limit the applicability of many existing materials e.g. nanostructured metallic alloys. In addition to the intrinsic trade-off, up-scaling of the manufacturing of nanostructured metal would also be not very cost effective. Recently, a new type of structure called heterogeneous lamalla (HL) structure has generated a lot of interests around the world to manufacture strong and ductile metallic alloys through conventional rolling and heat treatment. The key strategy to the HL structure is to generate heterogeity in strength from one domain area to the other. More specifically, ductile-soft domains composed of large grains embedded in a stronger-brittle matrix of fine grains. This would effectively overcome the strength-ductility trade-off by means of enhancing the strain hardening ability to avert early necking. In the past few years, several collaborators and I have worked to produce HL structure in multiple alloy systems e.g. non-equiatomic high entropy alloys, β -Ti alloy, and refractory complex concentrated alloy. </div>
+<br />
+<br />
+<br />
 
 Design of non-equiatomic high entropy alloys with heterogeneous lamella structure
 ======
@@ -38,8 +41,7 @@ Extraordinary strength-ductility synergy in a heterogeneous-structured β-Ti all
 
 Reference: Shin, S., ***Zhu, C.***, Zhang, C. and Vecchio, K.S., 2019. Extraordinary strength-ductility synergy in a heterogeneous-structured β-Ti alloy through microstructural optimization. Materials Research Letters, 7(11), pp.467-473. 
 <br />
-<br />
-<br />
+
 
 Cold-workable refractory complex concentrated alloys with tunable microstructure and good room-temperature tensile behavior
 ======
@@ -53,8 +55,6 @@ Cold-workable refractory complex concentrated alloys with tunable microstructure
 <br />
 
 Reference: Zhang, C., MacDonald, B.E., Guo, F., Wang, H., ***Zhu, C.***, Liu, X., Kang, Y., Xie, X., Zhou, Y., Vecchio, K.S. and Lavernia, E.J., 2020. Cold-workable refractory complex concentrated alloys with tunable microstructure and good room-temperature tensile behavior. Scripta Materialia, 188, pp.16-20. 
-<br />
-<br />
 <br />
 
 Aged Metastable High-entropy Alloys with Heterogeneous Lamella Structure

@@ -57,7 +57,7 @@ Deep Neural Network Enabled Space Group Identification in EBSD
 
 <figure>
     <img src='/images/space group-ml.png' class="center"> 
-    <figcaption> Comparison of diffraction patterns from B2 FeAl (space group 221) and BCC Fe (space group 229). <figcaption>
+    <figcaption> Comparison of diffraction patterns from B2 FeAl (space group 221) and BCC Fe (space group 229).</figcaption>
 </figure>
 <br />
 
