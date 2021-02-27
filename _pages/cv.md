@@ -11,28 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Materials Science and Engineering, UC San Diego, 2019
+* Ph.D.,M.S. in Materials Science and Engineering, UC San Diego, 2019
 * B.Eng. in Materials Science and Engineering, Imperial College London, 2015
 
 Work experience
 ======
 * August 2019-now: Research Associate
   * Carnegie Mellon University
-  * Supervisor: Dr. [Marc De Graef](https://www.cmu.edu/engineering/materials/people/faculty/bios/de_graef.html/)
+  * Supervisor: Professor [Marc De Graef](https://www.cmu.edu/engineering/materials/people/faculty/bios/de_graef.html/)
   * Funding source: ONR (VBFF)
 
 * Oct. 2015-June 2019: Graduate Student Researcher
   * UC San Diego
-  * Supervisor: Dr. [Kenneth Vecchio](https://sites.google.com/eng.ucsd.edu/kennethvecchioresearchgroup/)
+  * Supervisor: Professor [Kenneth Vecchio](https://sites.google.com/eng.ucsd.edu/kennethvecchioresearchgroup/)
   * Funding sources: UCSD Fellowship/GSR/TA/DOE
 
 * Oct 2014-July 2015: Undergraduate Researcher
   * Imperial College London   
-  * Supervisor: Dr. [Ben Britton](https://www.expmicromech.com/)
+  * Supervisor: Professor [Ben Britton](https://www.expmicromech.com/)
 
 * July 1st 2014-Sept 22nd 2014: Research Internship
   * Max-Planck-Institute for Iron Research GmbH 
-  * Supervisor: Dr. [Cem Tasan](https://tasan.mit.edu/research/) (now at MIT)
+  * Supervisor: Professor [Cem Tasan](https://tasan.mit.edu/research/) (now at MIT)
   * Funding source: DAAD RISE scholarship                                                                                                                  
   
 Skills
@@ -48,12 +48,13 @@ Skills
   * Digital image correlation
 * Programming:
   * Matlab/Python/Fortran
-  * Git, CMake, shh, VS code, Anaconda, LaTex, html
+  * Git, CMake, VS code, Anaconda, LaTex, scikit-learn, TensorFlow
   * OS: MacOS/WIN10/Linux (WSL)
 * Scientific software:
   * Abaqus
   * LAMMPS
   * Mathematica
+  * DAMASK
 * Other software:
   * MS Office (Word, ppt, Excel)
   * Adobe (PS, Lightroom, Illustrator)
