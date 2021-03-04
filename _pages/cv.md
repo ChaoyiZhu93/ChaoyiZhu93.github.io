@@ -33,7 +33,9 @@ Work experience
 * July 1st 2014-Sept 22nd 2014: Research Internship
   * Max-Planck-Institute for Iron Research GmbH 
   * Supervisor: Professor [Cem Tasan](https://tasan.mit.edu/research/) (now at MIT)
-  * Funding source: DAAD RISE scholarship                                                                                                                  
+  * Funding source: DAAD RISE scholarship
+  * Final Presentation: [Download](http://ChaoyiZhu93.github.io/files/MPIE Presentation .pdf)
+                                                                                                                   
   
 Skills
 ======

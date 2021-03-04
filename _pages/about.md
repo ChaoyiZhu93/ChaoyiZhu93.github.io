@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral scholar at Carnegie Mellon University in the Department of Materials Science and Engineering, advised by Professor [Marc De Graef](https://www.cmu.edu/engineering/materials/people/faculty/bios/de_graef.html/). 
-  * I am interested in sustainable design for metallic alloys through microstructure tuning. 
-  * I enjoy looking at pretty Kikuchi patterns to understand microstructure, texture, and deformation mechanisms of crystalline materials. 
-  * I have developed alternative micro/macro strain mapping techniques based on computer vision algorithm and phase mapping technique using convolutional neural network. 
-  * Recently, I started to explore the the optimization landscape for full deformation tensor inference from Kikuchi patterns and...
-  * the possibility of characterizing single dislocations using low-voltage EBSD.
+I am a Research Associate at Carnegie Mellon University in the Department of Materials Science and Engineering working in Professor [Marc De Graef](https://www.cmu.edu/engineering/materials/people/faculty/bios/de_graef.html/)'s group. 
+
+My recent research update:
+  * simulation based absolute strain/stress mapping.
+  * pattern center and orientation refinement with global optimization algorithms.
+  * virtual EBSD technique to probe mesoscale deformation information.
+  * analytical form of strain field for surface dislocation and dislocation segments.
+  * interaction volume EBSD simulation to understand surface defects.
+  * dictionary indexing approach to characterize dislocation in ECCI.
+  * hybrid convolutional neural network.
+  * crystal plasticity modeling/DDD simulation
+  
+My past research projects:  
+  * micro/macro strain mapping techniques based on computer vision algorithm.
+  * residual stress measurement in additively manufactured materials.
+  * phase mapping technique using convolutional neural network. 
+  * automated spherical Kikuchi sphere reconstruction from experimental patterns.
+  * microstructure/crystallographic anisotropy effects on shear localization properties.
+  * determine statistically stored dislocation density.
+  * GND assisted dislocation pipe diffusion in sintered iron.
+  * design of heterogeneous lamella structure and back-stress strengthening.
+  * in-situ deformation in SEM. 
  
+  
+A brief resume about myself can be downloaded here: [Chaoyi Zhu's Resume](http://ChaoyiZhu93.github.io/files/Chaoyi_Zhu_Resume_2021.pdf)
 
 professional background
 ======
