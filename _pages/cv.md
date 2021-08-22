@@ -16,7 +16,12 @@ Education
 
 Work experience
 ======
-* August 2019-now: Research Associate
+* August 2021-now: Postdoctoral Scholar
+  * University of California, Bekeley
+  * Supervisor: Professor [Andrew Minor](https://foundry.lbl.gov/about/staff/andrew-minor/) and Professor [Peter Hosemann](https://nuc.berkeley.edu/people/peter-hosemann/)
+  * Funding source: ONR and EPRI
+
+* August 2019-July 2021: Research Associate
   * Carnegie Mellon University
   * Supervisor: Professor [Marc De Graef](https://www.cmu.edu/engineering/materials/people/faculty/bios/de_graef.html/)
   * Funding source: ONR (VBFF)
