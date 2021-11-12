@@ -68,6 +68,7 @@ Skills
 
 Awards
 ======
+* 2022 TMS - AIME CHAMPION H. MATHEWSON AWARD
 * Dissertation Year Fellowship
 * EBSD 2018 Travel Grant / GSR Travel Grant
 * Acta Student Award 2018 Finalist
