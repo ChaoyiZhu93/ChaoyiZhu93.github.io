@@ -16,7 +16,11 @@ Education
 
 Work experience
 ======
-* August 2021-now: Postdoctoral Scholar
+* Nov 2021-Dec. 2021: Scientist
+  * Eurofins | EAG Laboratory
+  * SEM based services: SEM imaging, EDS, EBSD and ECCI.
+
+* August 2021-Nov. 2021: Postdoctoral Scholar
   * University of California, Bekeley
   * Supervisor: Professor [Andrew Minor](https://foundry.lbl.gov/about/staff/andrew-minor/) and Professor [Peter Hosemann](https://nuc.berkeley.edu/people/peter-hosemann/)
   * Funding source: ONR and EPRI
