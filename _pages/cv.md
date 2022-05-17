@@ -17,8 +17,7 @@ Education
 Work experience
 ======
 * Nov 2021-Dec. 2021: Scientist
-  * Eurofins | EAG Laboratory
-  * SEM based services: SEM imaging, EDS, EBSD and ECCI.
+  * Eurofins: EAG Laboratory
 
 * August 2021-Nov. 2021: Postdoctoral Scholar
   * University of California, Bekeley
@@ -50,8 +49,8 @@ Skills
 ======
 * Materials Characterization:
   * OLM/SEM/TEM/FIB
-  * EBSD/EDS/XRD
-  * IR/UV-vis/
+  * EBSD/EDS/XRD/ECCI
+  * FTIR/UV-vis/Raman/XPS/XRF
 * Mechanical Testing:
   * Vickers hardness/ Nanoindentation
   * Tensile test/In-situ tensile test
@@ -60,12 +59,12 @@ Skills
 * Programming:
   * Matlab/Python/Fortran
   * Git, CMake, VS code, Anaconda, LaTex, scikit-learn, TensorFlow
-  * OS: MacOS/WIN10/Linux (WSL)
+  * OS: MacOS/win/Linux
 * Scientific software:
   * Abaqus
   * LAMMPS
   * Mathematica
-  * DAMASK
+  * DAMASK (Crystal Plasticity Modeling)
 * Other software:
   * MS Office (Word, ppt, Excel)
   * Adobe (PS, Lightroom, Illustrator)
