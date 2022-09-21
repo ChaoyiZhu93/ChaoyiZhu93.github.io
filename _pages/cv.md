@@ -11,13 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D.,M.S. in Materials Science and Engineering, UC San Diego, 2019
+* Ph.D., M.S. in Materials Science and Engineering, UC San Diego, 2019
 * B.Eng. in Materials Science and Engineering, Imperial College London, 2015
 
 Work experience
 ======
-* Nov 2021-Dec. 2021: Scientist
+* Sept. 2022-now: Sr. In-Line Metrology Engineer
+  * Tesla, Fremont, CA
+  * Cell Engineering
+
+* Nov. 2021-Sept. 2022: Scientist
   * Eurofins: EAG Laboratory
+  * Advanced Imaging Group
 
 * August 2021-Nov. 2021: Postdoctoral Scholar
   * University of California, Bekeley
@@ -47,6 +52,10 @@ Work experience
   
 Skills
 ======
+* Reliabilty Engineering:
+  * Weibull analysis
+  * Accelerating life testing
+  * Failure Mode Effect Analysis
 * Materials Characterization:
   * OLM/SEM/TEM/FIB
   * EBSD/EDS/XRD/ECCI
@@ -57,13 +66,14 @@ Skills
   * Fracture toughness test
   * Digital image correlation
 * Programming:
-  * Matlab/Python/Fortran
-  * Git, CMake, VS code, Anaconda, LaTex, scikit-learn, TensorFlow
+  * Matlab/Python/Fortran/SQL
+  * Git, CMake, VScode, Anaconda, LaTex, scikit-learn, TensorFlow, Jupyter Notebook
   * OS: MacOS/win/Linux
 * Scientific software:
   * Abaqus
   * LAMMPS
   * Mathematica
+  * COMSOL
   * DAMASK (Crystal Plasticity Modeling)
 * Other software:
   * MS Office (Word, ppt, Excel)

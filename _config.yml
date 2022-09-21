@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chaoyi Zhu"
 title_separator          : "-"
 name                     : &name "Chaoyi Zhu"
-description              : &description "Postdoctoral Scholar at UC Berkeley"
+description              : &description "Senior Engineer at Tesla"
 url                      : https://ChaoyiZhu93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChaoyiZhu93.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Chaoyi Zhu (朱超逸)"
   avatar           : "profile.JPG"
   bio              : ""
-  location         : "Berkeley, CA"
-  employer         : "UC Berkeley"
+  location         : "Foster City, CA"
+  employer         : "Tesla, Inc."
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=l2fKHYgAAAAJ&hl=en&oi=ao"
-  email            : "zchaoyi@berkeley.edu"
+  email            : "zchaoyi93@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Chaoyi_Zhu3"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "chaoyi-zhu-949843103"
+  linkedin         : "chaoyi-zhu-ph-d-949843103"
   orcid            : "http://orcid.org/0000-0001-7798-9484"
   pinterest        :
   soundcloud       :
