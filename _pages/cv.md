@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Summary
+======
+Experienced system design engineer in high-precision metrology for process control and defect inspection. Expert knowledge in electron microscopy and high-throughput image analysis for defect/feature extraction. Passionate about coupling physics-based simulation to characterize and understand material properties.  Familiar with design for manufacturing, measurement system analysis, root cause analysis, and project management. Self-motivated problem solver with excellent communication skills.
+
 Education
 ======
 * Ph.D., M.S. in Materials Science and Engineering, UC San Diego, 2019
@@ -16,9 +20,9 @@ Education
 
 Work experience
 ======
-* Sept. 2022-now: Sr. In-Line Metrology Engineer
+* Sept. 2022-now: Sr. Metrology Systems Engineer
   * Tesla, Fremont, CA
-  * Cell Engineering
+  * 4680 Cell Engineering
 
 * Nov. 2021-Sept. 2022: Scientist
   * Eurofins: EAG Laboratory
@@ -52,14 +56,21 @@ Work experience
   
 Skills
 ======
+* System Design:
+  * Optical system
+  * Vacuum system
+  * Vibration analysis 
+  * System block diagram, DFMEA
 * Reliabilty Engineering:
+  * PFMEA
   * Weibull analysis
   * Accelerating life testing
-  * Failure Mode Effect Analysis
+  * Life stress models
 * Materials Characterization:
   * OLM/SEM/TEM/FIB
   * EBSD/EDS/XRD/ECCI
   * FTIR/UV-vis/Raman/XPS/XRF
+  * IR imaging
 * Mechanical Testing:
   * Vickers hardness/ Nanoindentation
   * Tensile test/In-situ tensile test
@@ -75,9 +86,11 @@ Skills
   * Mathematica
   * COMSOL
   * DAMASK (Crystal Plasticity Modeling)
+  * Zemax
 * Other software:
   * MS Office (Word, ppt, Excel)
   * Adobe (PS, Lightroom, Illustrator)
+  * Grafana, InfluxDB
 
 Awards
 ======
