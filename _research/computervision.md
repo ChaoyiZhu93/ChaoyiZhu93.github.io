@@ -1,6 +1,6 @@
 ---
 title: "Computer Vision Approach to Experimental Mechanics"
-excerpt: "In experimental mechanics, understanding how materials deform and where they are most susceptible to failure is crucial for promoting safety and potentially guiding material design to alleviate catastrophic loss. Characterization methods at different length scales that can map strain in situ and probe residual deformation post-mortem are therefore very important to provide researchers with location-specific measurable quantities to study failure mechanisms. <br/><img src='/images/DIC Image Registration figures.png'>"
+excerpt: "In experimental mechanics, understanding how materials deform and where they are most susceptible to failure is crucial for promoting safety and potentially guiding material design to alleviate catastrophic loss. Characterization methods at different length scales that can map strain in situ and probe residual deformation post-mortem are therefore very important to provide researchers with location-specific measurable quantities to study failure mechanisms. <br/><img src='/images/dic-image-registration-figures.png' alt='Research figure'>"
 permalink: /research/computer-vision
 date: 2019-11-01
 collection: research
@@ -22,14 +22,14 @@ collection: research
 <br />
 
 <figure>
-    <img src='/images/DIC Image Registration figures.png' class="center"> 
+    <img src='/images/dic-image-registration-figures.png' class="center" alt='Research figure'> 
     <figcaption> Strain maps comparison between DIC method and computer vision approach.</figcaption>
 </figure>
 
 A computer vision approach to study surface deformation of materials
 ====
 <figure>
-    <img src='/images/computer-vision-diagram.png' class="center"> 
+    <img src='/images/computer-vision-diagram.png' class="center" alt='Research figure'> 
     <figcaption> Flowchart of the strain mapping algorithm.</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ Reference: ***Zhu, C.***, Wang, H., Kaufmann, K. and Vecchio, K., 2019. Computer
 Novel remapping approach for HR-EBSD based on demons registration
 ====
 <figure>
-    <img src='/images/HR-EBSD registration.png' class="center"> 
+    <img src='/images/hr-ebsd-registration.png' class="center" alt='Research figure'> 
     <figcaption> Image registration based pattern remapping</figcaption>
 </figure>
 

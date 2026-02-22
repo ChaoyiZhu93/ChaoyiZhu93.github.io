@@ -7,9 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Number of publications = 36 
+Selected publications (full list on [Google Scholar](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&hl=en&oi=ao))
 
-Last imported from my [GoogleScholar page](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=pubdate) on 2022-09-20
 
 
 
@@ -25,8 +24,7 @@ C Zhang, X Wang, M Xu, BE MacDonald, R Hong, C Zhu, X Dai, ..., 2021, [Orientati
 L Wang, R Kou, Z Shang, Z Weng, C Zhu, Y Zhong, 2021, [Corona-Enabled Electrostatic Printing for Ultra-fast Manufacturing of Binder-Free Multifunctional E-Skins](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26oe%3DASCII%26user%3Dl2fKHYgAAAAJ%26pagesize%3D100%26sortby%3Dpubdate%26citation_for_view%3Dl2fKHYgAAAAJ%3AdhFuZR0502QC), ***ACS Applied Materials & Interfaces 13 (38), 45966-45976***, [3 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&oe=ASCII&cites=6541894571055195192)
 
 
-C Zhu, D Madisetti, J El-Awady, M De Graef, 2021, [Virtual Electron Backscatter Diffraction for Multiscale Defect Characterization](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26oe%3DASCII%26user%3Dl2fKHYgAAAAJ%26pagesize%3D100%26sortby%3Dpubdate%26citation_for_view%3Dl2fKHYgAAAAJ%3AmVmsd5A6BfQC), ***Microscopy and Microanalysis 27 (S1), 1458-1459***, [0 citations]()
-
+C Zhu, D Madisetti, J El-Awady, M De Graef, 2021, [Virtual Electron Backscatter Diffraction for Multiscale Defect Characterization](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26oe%3DASCII%26user%3Dl2fKHYgAAAAJ%26pagesize%3D100%26sortby%3Dpubdate%26citation_for_view%3Dl2fKHYgAAAAJ%3AmVmsd5A6BfQC), ***Microscopy and Microanalysis 27 (S1), 1458-1459***
 
 Z Ding, C Zhu, M De Graef, 2021, [Determining crystallographic orientation via hybrid convolutional neural network](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26oe%3DASCII%26user%3Dl2fKHYgAAAAJ%26pagesize%3D100%26sortby%3Dpubdate%26citation_for_view%3Dl2fKHYgAAAAJ%3AWp0gIr-vW9MC), ***Materials Characterization 178, 111213***, [7 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&oe=ASCII&cites=16711074267099299964)
 
@@ -64,7 +62,6 @@ C Zhu, H Wang, K Kaufmann, KS Vecchio, 2020, [A computer vision approach to stud
 K Kaufmann, C Zhu, AS Rosengarten, D Maryanovsky, TJ Harrington, ..., 2020, [Crystal symmetry determination in electron diffraction using machine learning](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26oe%3DASCII%26user%3Dl2fKHYgAAAAJ%26pagesize%3D100%26sortby%3Dpubdate%26citation_for_view%3Dl2fKHYgAAAAJ%3A3fE2CSJIrl8C), ***Science 367 (6477), 564-568***, [84 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&oe=ASCII&cites=6334410646559897872,106597494300346163)
 
 
-K Kaufmann, D Maryanovsky, WM Mellor, C Zhu, AS Rosengarten, ..., 2020, [Discovery of highentropy ceramics via machine learning. npj Comput Mater 6](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26oe%3DASCII%26user%3Dl2fKHYgAAAAJ%26pagesize%3D100%26sortby%3Dpubdate%26citation_for_view%3Dl2fKHYgAAAAJ%3AL8Ckcad2t8MC), ******, [6 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&oe=ASCII&cites=5341531305893283616)
 
 
 C Zhu, K Kaufmann, KS Vecchio, 2020, [Novel remapping approach for HR-EBSD based on demons registration](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26oe%3DASCII%26user%3Dl2fKHYgAAAAJ%26pagesize%3D100%26sortby%3Dpubdate%26citation_for_view%3Dl2fKHYgAAAAJ%3AhqOjcs7Dif8C), ***Ultramicroscopy 208, 112851***, [20 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&oe=ASCII&cites=15538227485659166687)
@@ -79,8 +76,7 @@ S Shin, C Zhu, C Zhang, KS Vecchio, 2019, [Extraordinary strength-ductility syne
 H Wang, T Harrington, C Zhu, KS Vecchio, 2019, [Design, fabrication and characterization of FeAl-based metallic-intermetallic laminate (MIL) composites](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26oe%3DASCII%26user%3Dl2fKHYgAAAAJ%26pagesize%3D100%26sortby%3Dpubdate%26citation_for_view%3Dl2fKHYgAAAAJ%3AroLk4NBRz8UC), ***Acta Materialia 175, 445-456***, [21 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&oe=ASCII&cites=12057473316747597660)
 
 
-K Kaufmann, C Zhu, AS Rosengarten, D Maryanovsky, T Harrington, ..., 2019, [High-Throughput Identification of Crystal Structures Via Machine Learning](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26oe%3DASCII%26user%3Dl2fKHYgAAAAJ%26pagesize%3D100%26sortby%3Dpubdate%26citation_for_view%3Dl2fKHYgAAAAJ%3A0EnyYjriUFMC), ***Microscopy and Microanalysis 25 (S2), 2258-2259***, [0 citations]()
-
+K Kaufmann, C Zhu, AS Rosengarten, D Maryanovsky, T Harrington, ..., 2019, [High-Throughput Identification of Crystal Structures Via Machine Learning](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26oe%3DASCII%26user%3Dl2fKHYgAAAAJ%26pagesize%3D100%26sortby%3Dpubdate%26citation_for_view%3Dl2fKHYgAAAAJ%3A0EnyYjriUFMC), ***Microscopy and Microanalysis 25 (S2), 2258-2259***
 
 C Zhu, K Kaufmann, K Vecchio, 2019, [Automated Reconstruction of Spherical Kikuchi Maps](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26oe%3DASCII%26user%3Dl2fKHYgAAAAJ%26pagesize%3D100%26sortby%3Dpubdate%26citation_for_view%3Dl2fKHYgAAAAJ%3A_kc_bZDykSQC), ***Microscopy and Microanalysis 25 (4), 912-923***, [9 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&oe=ASCII&cites=15771846205866155973)
 
@@ -94,8 +90,7 @@ C Zhang, C Zhu, K Vecchio, 2019, [Non-equiatomic FeNiCoAl-based high entropy all
 C Zhang, C Zhu, S Shin, L Casalena, K Vecchio, 2019, [Grain boundary precipitation of tantalum and NiAl in superelastic FeNiCoAlTaB alloy](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26oe%3DASCII%26user%3Dl2fKHYgAAAAJ%26pagesize%3D100%26sortby%3Dpubdate%26citation_for_view%3Dl2fKHYgAAAAJ%3AW7OEmFMy1HYC), ***Materials Science and Engineering: A 743, 372-381***, [17 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&oe=ASCII&cites=10289790861297418958)
 
 
-C Zhu, 2019, [Multiscale Charaterization Techniques to Elucidate Mechanical Behavior of Materials](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26oe%3DASCII%26user%3Dl2fKHYgAAAAJ%26pagesize%3D100%26sortby%3Dpubdate%26citation_for_view%3Dl2fKHYgAAAAJ%3AaqlVkmm33-oC), ***University of California, San Diego***, [0 citations]()
-
+C Zhu, 2019, [Multiscale Characterization Techniques to Elucidate Mechanical Behavior of Materials](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26oe%3DASCII%26user%3Dl2fKHYgAAAAJ%26pagesize%3D100%26sortby%3Dpubdate%26citation_for_view%3Dl2fKHYgAAAAJ%3AaqlVkmm33-oC), ***University of California, San Diego***
 
 C Zhang, C Zhu, T Harrington, L Casalena, H Wang, S Shin, KS Vecchio, 2019, [Multifunctional Non Equiatomic High Entropy Alloys with Superelastic, High Damping, and Excellent Cryogenic Properties](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26oe%3DASCII%26user%3Dl2fKHYgAAAAJ%26pagesize%3D100%26sortby%3Dpubdate%26citation_for_view%3Dl2fKHYgAAAAJ%3AY0pCki6q_DkC), ***Advanced Engineering Materials 21 (1), 1800941***, [26 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&oe=ASCII&cites=12665305179186480413)
 
@@ -118,5 +113,4 @@ C Zhu, V Livescu, T Harrington, O Dippo, GT Gray III, KS Vecchio, 2017, [Investi
 C Zhu, T Harrington, V Livescu, GT Gray III, KS Vecchio, 2016, [Determination of geometrically necessary dislocations in large shear strain localization in aluminum](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26oe%3DASCII%26user%3Dl2fKHYgAAAAJ%26pagesize%3D100%26sortby%3Dpubdate%26citation_for_view%3Dl2fKHYgAAAAJ%3Au5HHmVD_uO8C), ***Acta Materialia 118, 383-394***, [56 citations](https://scholar.google.com/scholar?oi=bibs&hl=en&oe=ASCII&cites=9134382703289225342)
 
 
-C Zhu, V Livescu, T Harrington, O Dippo, GT Gray III, KS Vecchio, , [Determination of Geometrically Necessary Dislocations in Large Shear Strain Localization in Metals](https://scholar.google.com/citations?user=l2fKHYgAAAAJ&pagesize=1000&sortby=pubdate#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26oe%3DASCII%26user%3Dl2fKHYgAAAAJ%26pagesize%3D100%26sortby%3Dpubdate%26citation_for_view%3Dl2fKHYgAAAAJ%3A9ZlFYXVOiuMC), ******, [0 citations]()
 

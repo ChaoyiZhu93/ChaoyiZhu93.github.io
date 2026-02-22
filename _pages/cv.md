@@ -20,7 +20,11 @@ Education
 
 Work experience
 ======
-* Sept. 2022-now: Sr. Metrology Systems Engineer
+* June. 2025 - now: Hardware System Reliability Engineer
+  * Apple, Culver City, CA
+  * Home/audio/Beats
+
+* Sept. 2022- June. 2025: Sr. Metrology Systems Engineer
   * Tesla, Fremont, CA
   * 4680 Cell Engineering
 
@@ -29,7 +33,7 @@ Work experience
   * Advanced Imaging Group
 
 * August 2021-Nov. 2021: Postdoctoral Scholar
-  * University of California, Bekeley
+  * University of California, Berkeley
   * Supervisor: Professor [Andrew Minor](https://foundry.lbl.gov/about/staff/andrew-minor/) and Professor [Peter Hosemann](https://nuc.berkeley.edu/people/peter-hosemann/)
   * Funding source: ONR and EPRI
 
@@ -51,7 +55,7 @@ Work experience
   * Max-Planck-Institute for Iron Research GmbH 
   * Supervisor: Professor [Cem Tasan](https://tasan.mit.edu/research/) (now at MIT)
   * Funding source: DAAD RISE scholarship
-  * Final Presentation: [Download](http://ChaoyiZhu93.github.io/files/MPIE Presentation .pdf)
+  * Final Presentation: [Download](/files/mpie-presentation.pdf)
                                                                                                                    
   
 Skills
@@ -61,7 +65,7 @@ Skills
   * Vacuum system
   * Vibration analysis 
   * System block diagram, DFMEA
-* Reliabilty Engineering:
+* Reliability Engineering:
   * PFMEA
   * Weibull analysis
   * Accelerating life testing

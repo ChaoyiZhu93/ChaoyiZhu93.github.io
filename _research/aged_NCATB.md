@@ -1,6 +1,6 @@
 ---
 title: "Sustainable Design of Metallic Alloys Through Microstructure Engineering"
-excerpt: "As the demand for structural alloys is expected to grow around 200% in many industrial sectors until 2050, reduction in greenhouse gas emission associated with metal extraction and manufacturing becomes critically important. For example, method such as scrap metal recycling in the secondary industry would make direct impact to the sustainability of structural metals but the challenge nowadays is to sort metals with increasingly complex alloying elements. Fortunately, properties of metals, particular mechanical properties, can be adjusted through microstructure tuning without changing the alloying composition <br/><img src='/images/HL-front.png'>"
+excerpt: "As the demand for structural alloys is expected to grow around 200% in many industrial sectors until 2050, reduction in greenhouse gas emission associated with metal extraction and manufacturing becomes critically important. For example, method such as scrap metal recycling in the secondary industry would make direct impact to the sustainability of structural metals but the challenge nowadays is to sort metals with increasingly complex alloying elements. Fortunately, properties of metals, particular mechanical properties, can be adjusted through microstructure tuning without changing the alloying composition <br/><img src='/images/HL-front.png' alt='Research figure'>"
 permalink: /research/microstructure
 date: 2018-10-01
 collection: research
@@ -17,7 +17,7 @@ collection: research
 Design of non-equiatomic high entropy alloys with heterogeneous lamella structure
 ======
 <figure>
-    <img src='/images/hl nonequiatomic HEA.jpg' class="center"> 
+    <img src='/images/hl-nonequiatomic-hea.jpg' class="center" alt='Research figure'> 
     <figcaption> Heterogeneous lamella structure of high-entropy alloy mapped with EBSD and back-stress strengthening.</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Extraordinary strength-ductility synergy in a heterogeneous-structured β-Ti all
 ======
 
 <figure>
-    <img src='/images/hl gum metal.jpeg' class="center"> 
+    <img src='/images/hl-gum-metal.jpeg' class="center" alt='Research figure'> 
     <figcaption> Heterogeneous lamella structure of β-Ti alloy.</figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ Cold-workable refractory complex concentrated alloys with tunable microstructure
 ======
 
 <figure>
-    <img src='/images/RHEA-ebsd.jpg' class="center"> 
+    <img src='/images/RHEA-ebsd.jpg' class="center" alt='Research figure'> 
     <figcaption> Heterogeneous lamella structure of β-Ti alloy.</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ Reference: Zhang, C., MacDonald, B.E., Guo, F., Wang, H., ***Zhu, C.***, Liu, X.
 Aged Metastable High-entropy Alloys with Heterogeneous Lamella Structure
 ======
 <figure>
-    <img src='/images/aged-ncatb.png' class="center"> 
+    <img src='/images/aged-ncatb.png' class="center" alt='Research figure'> 
     <figcaption> Multiple hardening mechanism in HL structured aged metastable high-entropy alloy.</figcaption>
 </figure>
 

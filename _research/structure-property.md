@@ -1,6 +1,6 @@
 ---
 title: "Microstructure and Crystallographic Orientation Effect on the Mechanical Behavior of Materials "
-excerpt: "A key part of materials science is to build the structure-property linkage. For example, mechanical behavior of structural materials depends strongly on the microstructure and orientation of crystalline domains. A deeper understanding of this particular linkage requires an thorough investigation into the generation and motion of dislocations, dislocation-dislocation interaction and dislocation-grain boundary interaction. Characterization of the distribution and types of dislocations over a large area has been made possible with electron backscatter diffraction <br/><img src='/images/microstructure-anisotropy.jpg'>"
+excerpt: "A key part of materials science is to build the structure-property linkage. For example, mechanical behavior of structural materials depends strongly on the microstructure and orientation of crystalline domains. A deeper understanding of this particular linkage requires an thorough investigation into the generation and motion of dislocations, dislocation-dislocation interaction and dislocation-grain boundary interaction. Characterization of the distribution and types of dislocations over a large area has been made possible with electron backscatter diffraction <br/><img src='/images/microstructure-anisotropy.jpg' alt='Research figure'>"
 permalink: /research/structure-property
 date: 2017-11-01
 collection: research
@@ -18,7 +18,7 @@ collection: research
 Dislocation-type evolution in quasi-statically compressed polycrystalline nickel
 =====
 <figure>
-    <img src='/images/Ni-compression.jpg' class="center"> 
+    <img src='/images/Ni-compression.jpg' class="center" alt='Research figure'> 
     <figcaption> Heterogeneous deformation in polycrystalline nickel and experimental validation of Ashby's strengthening model.</figcaption>
 </figure>
 
@@ -50,6 +50,6 @@ Determination of geometrically necessary dislocations in large shear strain loca
 Reference: ***Zhu, C.***, Harrington, T., Livescu, V., Gray III, G.T. and Vecchio, K.S., 2016. Determination of geometrically necessary dislocations in large shear strain localization in aluminum. Acta Materialia, 118, pp.383-394.
 
 <figure>
-    <img src='/images/microstructure-anisotropy.jpg' class="center"> 
+    <img src='/images/microstructure-anisotropy.jpg' class="center" alt='Research figure'> 
     <figcaption> Microstructural and crystallographic anisotropy effect on shear localization properties.</figcaption>
 </figure>

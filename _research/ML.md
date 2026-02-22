@@ -1,12 +1,12 @@
 ---
 title: "High-Throughput Characterization with Machine Learning"
-excerpt: "Following some of the most significant discoveries in physics made in the 20th century, modern breakthroughs in physical science have been closely correlated with the exponential growth in the computational power and advanced analytical algorithms. To tackle some of the urgent problems that our humanity faces such as global warming, scientists more actively seek for material solutions to lead a more sustainable future, for example, structural alloys that last longer in service and battery materials with higher energy storage capacity. Part of the so-called 'closed-loop' challenge in designing new materials is to integrate high-throughput characterization into the materials' design process. With ever more sophisticated machine learning algorithms... <br/><img src='/images/ML-importance.png'>"
+excerpt: "Following some of the most significant discoveries in physics made in the 20th century, modern breakthroughs in physical science have been closely correlated with the exponential growth in the computational power and advanced analytical algorithms. To tackle some of the urgent problems that our humanity faces such as global warming, scientists more actively seek for material solutions to lead a more sustainable future, for example, structural alloys that last longer in service and battery materials with higher energy storage capacity. Part of the so-called 'closed-loop' challenge in designing new materials is to integrate high-throughput characterization into the materials' design process. With ever more sophisticated machine learning algorithms... <br/><img src='/images/ML-importance.png' alt='Research figure'>"
 permalink: /research/ml-characterization
 date: 2019-11-01
 collection: research
 ---
 <figure>
-    <img src='/images/ML-importance.png' class="center"> 
+    <img src='/images/ML-importance.png' class="center" alt='Research figure'> 
     <figcaption> The heat map for diffraction pattern classification.</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ Crystal symmetry determination in electron diffraction using machine learning
 ====
 
 <figure>
-    <img src='/images/cnn-ebsd.png' class="center"> 
+    <img src='/images/cnn-ebsd.png' class="center" alt='Research figure'> 
     <figcaption> Schematic of how the CNN works to classify Bravais lattices.</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Phase Mapping in EBSD Using Convolutional Neural Networks
 ====
 
 <figure>
-    <img src='/images/ML-phasemaps.png' class="center"> 
+    <img src='/images/ML-phasemaps.png' class="center" alt='Research figure'> 
     <figcaption> Phase mapping example using CNN.</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ Deep Neural Network Enabled Space Group Identification in EBSD
 =====
 
 <figure>
-    <img src='/images/space group-ml.png' class="center"> 
+    <img src='/images/space-group-ml.png' class="center" alt='Research figure'> 
     <figcaption> Comparison of diffraction patterns from B2 FeAl (space group 221) and BCC Fe (space group 229).</figcaption>
 </figure>
 <br />

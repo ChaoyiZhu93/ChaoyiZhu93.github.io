@@ -1,6 +1,6 @@
 ---
 title: "Materials Characterization Using Physics Based Forward Model"
-excerpt: "Most characterization methods are ill-posed inverse problems which could benefit from some form of regularization. Physics based forward model serves as a strong form of regularization which allows us to accurately model the source (electron, x-ray, photons, neutrons, etc), source-sample interaction, detector behavior, and even take into account potential sources of measurement noise. It is then possible to iteratively infer material properties through direct comparison of the modeling results with experimental data by solving the inverse problem <br/><img src='/images/forward-model.png'>"
+excerpt: "Most characterization methods are ill-posed inverse problems which could benefit from some form of regularization. Physics based forward model serves as a strong form of regularization which allows us to accurately model the source (electron, x-ray, photons, neutrons, etc), source-sample interaction, detector behavior, and even take into account potential sources of measurement noise. It is then possible to iteratively infer material properties through direct comparison of the modeling results with experimental data by solving the inverse problem <br/><img src='/images/forward-model.png' alt='Research figure'>"
 permalink: /research/forward-model
 date: 2020-11-01
 collection: research
@@ -21,7 +21,7 @@ collection: research
 EBSD Pattern Simulations for an Interaction Volume Containing Lattice Defects
 ======
 <figure>
-    <img src='/images/ebsd-ivol-01.png' class="center"> 
+    <img src='/images/ebsd-ivol-01.png' class="center" alt='Research figure'> 
     <figcaption> The effect of deformation and interaction volume of electron interaction on the diffraction field surrounding single edge dislocation and low angle grain boundary.</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ Reference: ***Zhu, C***. and De Graef, M., 2020. EBSD Pattern Simulations for an
 Deformation state extraction from electron backscatter diffraction patterns via simulation-based pattern-matching
 ====
 <figure>
-    <img src='/images/deformation-inference.png' class="center"> 
+    <img src='/images/deformation-inference.png' class="center" alt='Research figure'> 
     <figcaption> Pattern matching based deformation tensor inference around a single dislocation (compared with HR-EBSD).</figcaption>
 </figure>
 
