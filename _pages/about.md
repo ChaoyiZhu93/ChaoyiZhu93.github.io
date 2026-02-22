@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome to my Page!
 ======
-Currently, I work as a Senior Metrology Systems Engineer in the 4680 Cell Engineering Team at Tesla.
+Currently, I work as a Hardware System Reliability Engineer in the 4680 Cell Engineering Team at Tesla.
 
 I am a microscopist, metallurgist, and software developer. I am also an amateur guitar player and photographer. And in my spare time, I love cooking, playing tennis and basketball with my friends.
 
